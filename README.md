@@ -33,3 +33,9 @@ https://mc-server-list.com/
 https://minestatus.net/
 
 https://www.servertilt.com/minecraft-servers
+
+https://www.planetminecraft.com/servers/
+
+https://www.minecraftserverslist.net/
+
+https://serverlist101.com/minecraft-servers/
