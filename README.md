@@ -39,3 +39,5 @@ https://www.planetminecraft.com/servers/
 https://www.minecraftserverslist.net/
 
 https://serverlist101.com/minecraft-servers/
+
+https://www.gametracker.com/search/minecraft/
