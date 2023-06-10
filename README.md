@@ -41,3 +41,4 @@ List of websites that claim to give a list of good java servers. Aternos's list,
 19. https://serverlist101.com/minecraft-servers/
 
 20. https://www.gametracker.com/search/minecraft/
+21. https://minecraftservers.biz/
