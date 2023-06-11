@@ -45,3 +45,8 @@ List of websites that claim to give a list of good java servers. Aternos's list,
 22. https://mc-servers.com/
 23. https://votemc.com/
 24. https://mclist.io/servers
+25. https://www.serverpact.com/
+26. https://www.trackyserver.com/minecraft-server
+27. https://serverlist.games/
+28. https://topservers.com/best-minecraft-servers
+29. https://minecraftlist.org/
